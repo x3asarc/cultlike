@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell:*)",
+      "Bash(mkdir:*)",
+      "Bash(bash:*)",
+      "Bash(npm install:*)",
+      "Bash(mv:*)",
+      "Bash(mv:*)",
+      "Bash(ln:*)",
+      "Bash(rm:*)",
+      "Bash(rm:*)",
+      "Bash(npm run dev:*)",
+      "Bash(touch:*)",
+      "Bash(npm run build:*)",
+      "Bash(npm run type-check:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git rm:*)"
+    ],
+    "deny": [],
+    "ask": [],
+    "additionalDirectories": [
+      "C:\\c\\users\\hp\\documents"
+    ]
+  }
+}
